@@ -15,11 +15,11 @@ export const story = [
   },
   {
     image: img3,
-    text: "Our first movie trip together we had so much fun watching minions, you remember that?",
+    text: "Our first movie trip together we had so much fun watching minions, you remember that?, we had so much fun, we laughed with our friends, and then you slept in my arms and I felt so close to you, I truly love you so much, then we all went and laughed together and some random chinese guy joining us",
   },
   {
     image: img4,
-    text: "Last day we met at night before you left, I wanted to stay in your arms forever in that moment :( ",
+    text: "Last day we met at night before you left, I wanted to stay in your arms forever in that moment, feeling the warmth of your arms, and the amount of love you have for me, I gave you that nerdy hello kitty and told you to keep it, and I almost slept in your arms while you played with my hair, but you had to go so soon :( ",
   },
   {
     image: img5,
