@@ -11,7 +11,7 @@ export const story = [
   },
   {
     image: img2,
-    text: "I love you so much, you bring joy to my life, you uplift my happiness.",
+    text: "I love you so much, you bring joy to my life, you uplift my happiness during the worst moments of my life, you make me feel at home and your arms are warmer then anything I had, you are truly my home now.",
   },
   {
     image: img3,
